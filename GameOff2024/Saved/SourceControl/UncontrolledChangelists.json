@@ -5,7 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/Github/Game-Off-2024/GameOff2024/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"E:/Github/Game-Off-2024/GameOff2024/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/Github/Game-Off-2024/GameOff2024/Content/Characters/animations/Crouch/Crouch_Idle.uasset",
+				"E:/Github/Game-Off-2024/GameOff2024/Content/Characters/animations/Crouch/Crouh_Walk.uasset",
+				"E:/Github/Game-Off-2024/GameOff2024/Content/Characters/animations/Locomotion/Idle_Break.uasset",
+				"E:/Github/Game-Off-2024/GameOff2024/Content/Characters/animations/Locomotion/Walk_Stop.uasset",
+				"E:/Github/Game-Off-2024/GameOff2024/Content/Characters/animations/Locomotion/LocomotionBlendspace1D.uasset",
+				"E:/Github/Game-Off-2024/GameOff2024/Content/Characters/animations/ABP_Character.uasset",
+				"E:/Github/Game-Off-2024/GameOff2024/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Github/Game-Off-2024/GameOff2024/Content/Characters/animations/ABP_PlayerCharacter.uasset",
+				"E:/Github/Game-Off-2024/GameOff2024/Content/Fab/FREE_Magical_Assassin/model_texture_0.uasset",
+				"E:/Github/Game-Off-2024/GameOff2024/Content/Fab/FREE_Magical_Assassin/model_material_0.uasset",
+				"E:/Github/Game-Off-2024/GameOff2024/Content/Fab/FREE_Magical_Assassin/model.uasset"
 			]
 		}
 	]
