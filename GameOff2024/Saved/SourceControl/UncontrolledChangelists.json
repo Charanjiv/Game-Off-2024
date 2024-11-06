@@ -11,12 +11,18 @@
 				"E:/Github/Game-Off-2024/GameOff2024/Content/Characters/animations/Locomotion/Idle_Break.uasset",
 				"E:/Github/Game-Off-2024/GameOff2024/Content/Characters/animations/Locomotion/Walk_Stop.uasset",
 				"E:/Github/Game-Off-2024/GameOff2024/Content/Characters/animations/Locomotion/LocomotionBlendspace1D.uasset",
-				"E:/Github/Game-Off-2024/GameOff2024/Content/Characters/animations/ABP_Character.uasset",
 				"E:/Github/Game-Off-2024/GameOff2024/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"E:/Github/Game-Off-2024/GameOff2024/Content/Characters/animations/ABP_PlayerCharacter.uasset",
 				"E:/Github/Game-Off-2024/GameOff2024/Content/Fab/FREE_Magical_Assassin/model_texture_0.uasset",
 				"E:/Github/Game-Off-2024/GameOff2024/Content/Fab/FREE_Magical_Assassin/model_material_0.uasset",
-				"E:/Github/Game-Off-2024/GameOff2024/Content/Fab/FREE_Magical_Assassin/model.uasset"
+				"E:/Github/Game-Off-2024/GameOff2024/Content/Fab/FREE_Magical_Assassin/model.uasset",
+				"E:/Github/Game-Off-2024/GameOff2024/Content/Characters/animations/Crouch/CrouchedBlendspace1D.uasset",
+				"E:/Github/Game-Off-2024/GameOff2024/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"E:/Github/Game-Off-2024/GameOff2024/Content/Characters/animations/Lean/MM_Run_Fwd_Left.uasset",
+				"E:/Github/Game-Off-2024/GameOff2024/Content/Characters/animations/Lean/MM_Run_Fwd_Right.uasset",
+				"E:/Github/Game-Off-2024/GameOff2024/Content/Characters/animations/Lean/LeanBlendspace1D.uasset",
+				"E:/Github/Game-Off-2024/GameOff2024/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"E:/Github/Game-Off-2024/GameOff2024/Content/Characters/animations/ABP_Character.uasset"
 			]
 		}
 	]
